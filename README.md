@@ -3,7 +3,7 @@
 
 A repository for Hylé's branding assets.
 
-[Hylé](https://hyle.eu) is a lean blockchain to help you build provable apps that are minimally, yet sufficiently, on-chain.
+[Hylé](https://hyle.eu) is the new-generation Layer 1 network for the era of unchained applications.
 
 ## 📎 Useful Links
 
@@ -15,7 +15,11 @@ A repository for Hylé's branding assets.
 ## Colors
 Hylé's main colors are:
 
-- Orange: #E0482E
+- Orange: #DF6445
+- Dark grey: #1E2933
+- Light grey: #516273
+
+As well as black (#000000) and white (#FFFFFF).
 
 [twitter-badge]: https://img.shields.io/twitter/follow/hyle_org  
 [twitter-url]: https://x.com/hyle_org  
