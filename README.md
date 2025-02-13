@@ -21,6 +21,16 @@ Hylé's main colors are:
 
 As well as black (#000000) and white (#FFFFFF).
 
+## Logos
+
+### Full logo
+
+### Logotype
+
+## Typography
+
+Need anything else? Contact us directly [on Telegram](https://t.me/hyle_org), we'll be happy to help!
+
 [twitter-badge]: https://img.shields.io/twitter/follow/hyle_org  
 [twitter-url]: https://x.com/hyle_org  
 [tg-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhyle_org%2F&logo=telegram&label=chat&color=neon
