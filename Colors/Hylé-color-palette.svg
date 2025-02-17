@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240.58 1042.27">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #252d37;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: SuisseIntl-Light, 'Suisse Int'l';
+        font-size: 23.41px;
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        fill: #546373;
+      }
+
+      .cls-6 {
+        fill: #d15a3d;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" y="693.07" width="420.49" height="349.2"/>
+  <rect class="cls-3" x="842.14" y="693.07" width="398.44" height="349.2"/>
+  <rect x="420.49" y="693.07" width="421.65" height="349.2"/>
+  <rect class="cls-6" width="842.14" height="694.08"/>
+  <rect class="cls-1" x="842.14" width="398.44" height="694.08"/>
+  <text class="cls-4" transform="translate(23.16 49.98)"><tspan x="0" y="0">#DF6445</tspan></text>
+  <text class="cls-4" transform="translate(878.81 49.98)"><tspan x="0" y="0">#1E2933</tspan></text>
+  <text class="cls-4" transform="translate(23.16 734.25)"><tspan x="0" y="0">#516273</tspan></text>
+  <text class="cls-4" transform="translate(443.14 734.25)"><tspan x="0" y="0">#000000</tspan></text>
+  <text class="cls-2" transform="translate(878.81 734.25)"><tspan x="0" y="0">#FFFFFF</tspan></text>
+</svg>
