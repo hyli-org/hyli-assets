@@ -21,6 +21,8 @@ Hylé's main colors are:
 
 As well as black (#000000) and white (#FFFFFF).
 
+![](./Colors/Hylé-color-palette.svg)
+
 ## Logos
 
 ### Full logo
