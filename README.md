@@ -14,15 +14,7 @@ A repository for Hylé's branding assets.
 
 ## 🎨 Colors
 
-Hylé's main colors are:
-
-- Orange: #DF6445
-- Dark grey: #1E2933
-- Light grey: #516273
-
-As well as black (#000000) and white (#FFFFFF).
-
-![](./Colors/Hylé-color-palette.svg)
+Hylé's distinctive color is orange (#DF6445). Check [our full palette](./Colors/colors.md).
 
 ## 🖼️ Logos
 
@@ -32,10 +24,7 @@ As well as black (#000000) and white (#FFFFFF).
 
 ## ✒️ Typography
 
-Our fonts are:
-
-- **Chakra Petch** for titles
-- **[Roboto](https://fonts.google.com/specimen/Roboto)** for text
+We use Neue Montreal, Chakra Petch, and Roboto. [Read more](./Typography/typography.md).
 
 Need anything else? Contact us directly [on Telegram](https://t.me/hyle_org), we'll be happy to help!
 
