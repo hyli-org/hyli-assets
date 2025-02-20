@@ -12,7 +12,8 @@ A repository for Hylé's branding assets.
 - [Hylé SDK README](https://github.com/Hyle-org/hyle/tree/main/crates/contract-sdk)
 - [Main repository](https://github.com/Hyle-org/hyle)
 
-## Colors
+## 🎨 Colors
+
 Hylé's main colors are:
 
 - Orange: #DF6445
@@ -23,13 +24,18 @@ As well as black (#000000) and white (#FFFFFF).
 
 ![](./Colors/Hylé-color-palette.svg)
 
-## Logos
+## 🖼️ Logos
 
 ### Full logo
 
 ### Logotype
 
-## Typography
+## ✒️ Typography
+
+Our fonts are:
+
+- **Chakra Petch** for titles
+- **[Roboto](https://fonts.google.com/specimen/Roboto)** for text
 
 Need anything else? Contact us directly [on Telegram](https://t.me/hyle_org), we'll be happy to help!
 
