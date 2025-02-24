@@ -18,9 +18,9 @@ Hylé's distinctive color is orange (#DF6445). Check [our full palette](./Colors
 
 ## 🖼️ Logos
 
-### Full logo
+<img src="Logos/Logo/HYLI_WORDMARK_CHARCOAL.png" width="60%">
 
-### Logotype
+Find [all our logos in PNG and SVG formats](./Logos/logos.md).
 
 ## ✒️ Typography
 
