@@ -1,30 +1,67 @@
 [![Telegram Chat][tg-badge]][tg-url]
 [![Twitter][twitter-badge]][twitter-url]
 
-A repository for Hylé's branding assets.
+A repository for Hyli's branding assets.
 
-[Hylé](https://hyle.eu) is the new-generation Layer 1 network for the era of unchained applications.
+[Hyli](https://hyle.eu) is the new-generation Layer 1 network for the era of unchained applications.
 
 ## 📎 Useful Links
 
-- [Hylé website](https://hyle.eu)
-- [Hylé documentation](https://docs.hyle.eu/)
-- [Hylé SDK README](https://github.com/Hyle-org/hyle/tree/main/crates/contract-sdk)
+- [Hyli website](https://hyle.eu)
+- [Hyli documentation](https://docs.hyle.eu/)
 - [Main repository](https://github.com/Hyle-org/hyle)
-
-## 🎨 Colors
-
-Hylé's distinctive color is orange (#DF6445). Check [our full palette](./Colors/colors.md).
 
 ## 🖼️ Logos
 
+Please do not change the colors without asking for permission first.
+
+Please use the full logo wherever possible, rather than the emblem.
+
+### Logo
+
 <img src="Logos/Logo/HYLI_WORDMARK_CHARCOAL.png" width="60%">
+
+See also: [PNG images](./Logo/), [SVG images](./Logo/SVG/).
+
+### Emblem
+
+<img src="Logos//Emblem/HYLI_EMBLEME_ORANGE.png" width="30%">
+
+See also: [PNG images](./Emblem/), [SVG images](./Emblem/SVG/).
 
 Find [all our logos in PNG and SVG formats](./Logos/logos.md).
 
+## 🎨 Colors
+
+Hyli's main colors are:
+
+- Orange: #DF6445
+- Dark grey: #1E2933
+- Light grey: #516273
+
+As well as black (#000000) and white (#FFFFFF).
+
+![Hyli's color palette.](/img/color-palette.svg)
+
 ## ✒️ Typography
 
-We use Neue Montreal, Chakra Petch, and Roboto. [Read more](./Typography/typography.md).
+## Chakra Petch
+
+**Chakra Petch** is a Google font, [usable for free](https://fonts.google.com/specimen/Chakra+Petch). We use it for most titles.
+
+<img src="./img/Chakra%20Petch.png" width="50%">
+
+## Roboto
+
+**Roboto** is a Google Font, [usable for free](https://fonts.google.com/specimen/Roboto). We use it for long-form text.
+
+<img src="./img/Roboto.png" width="50%">
+
+## Neue Montreal
+
+Neue Montreal is a Pangram font, with [licenses starting at $30](https://pangrampangram.com/products/neue-montreal). We use it for highest-level titles.
+
+<img src="./img/Neue%20Montreal.png" width="50%">
 
 Need anything else? Contact us directly [on Telegram](https://t.me/hyle_org), we'll be happy to help!
 
