@@ -3,7 +3,7 @@
 
 A repository for Hyli's branding assets.
 
-[Hyli](https://hyle.eu) is the new-generation baése layer for unchained applications.
+[Hyli](https://hyle.eu) is the new-generation base layer for unchained applications.
 
 ## 📎 Useful Links
 
