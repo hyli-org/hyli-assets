@@ -21,13 +21,13 @@ Please use the full logo wherever possible, rather than the emblem.
 
 <img src="Logos/Logo/HYLI_WORDMARK_CHARCOAL.png" width="60%">
 
-See also: [PNG images](./Logo/), [SVG images](./Logo/SVG/).
+See also: [PNG images](./Logos/Logo), [SVG images](./Logos/Logo/SVG/).
 
 ### Emblem
 
 <img src="Logos//Emblem/HYLI_EMBLEME_ORANGE.png" width="30%">
 
-See also: [PNG images](./Emblem/), [SVG images](./Emblem/SVG/).
+See also: [PNG images](./Logos/Emblem/), [SVG images](./Logos/Emblem/SVG/).
 
 Find [all our logos in PNG and SVG formats](./Logos/logos.md).
 
