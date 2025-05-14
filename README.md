@@ -3,7 +3,7 @@
 
 A repository for Hyli's branding assets.
 
-[Hyli](https://hyli.org) is the new-generation base layer for unchained applications.
+[Hyli](https://hyli.org) is the new proof-powered L1 to build the next generation of apps.
 
 ## 📎 Useful Links
 
