@@ -63,9 +63,9 @@ Neue Montreal is a Pangram font, with [licenses starting at $30](https://pangram
 
 <img src="./img/Neue%20Montreal.png" width="50%">
 
-Need anything else? Contact us directly [on Telegram](https://t.me/hyle_org), we'll be happy to help!
+Need anything else? Contact us directly [on Telegram](https://t.me/hyli_org), we'll be happy to help!
 
-[twitter-badge]: https://img.shields.io/twitter/follow/hyle_org  
-[twitter-url]: https://x.com/hyle_org  
-[tg-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhyle_org%2F&logo=telegram&label=chat&color=neon
-[tg-url]: https://t.me/hyle_org
+[twitter-badge]: https://img.shields.io/twitter/follow/hyli_org  
+[twitter-url]: https://x.com/hyli_org  
+[tg-badge]: https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fhyli_org%2F&logo=telegram&label=chat&color=neon
+[tg-url]: https://t.me/hyli_org
