@@ -7,9 +7,9 @@ A repository for Hyli's branding assets.
 
 ## 📎 Useful Links
 
-- [Hyli website](https://hyle.eu)
-- [Hyli documentation](https://docs.hyle.eu/)
-- [Main repository](https://github.com/Hyle-org/hyle)
+- [Hyli website](https://hyli.org)
+- [Hyli documentation](https://docs.hyli.org)
+- [Main repository](https://github.com/hyli-org/hyli)
 
 ## 🖼️ Logos
 
